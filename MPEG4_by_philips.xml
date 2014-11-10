@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:06:46Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">MPEG4%20by%20philips.mp4</instantiationIdentifier>
+	<instantiationDate dateType="encoded">2001-08-09T11:21:26Z</instantiationDate>
+	<instantiationDate dateType="tagged">2001-08-09T11:21:26Z</instantiationDate>
+	<instantiationDigital>video/quicktime</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/MPEG-4/MPEG4%20by%20philips.mp4</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">142130</instantiationFileSize>
+	<instantiationDuration>00:00:07.440</instantiationDuration>
+	<instantiationDataRate unitsOfMeasure="bits/second" annotation="VBR">152828</instantiationDataRate>
+	<instantiationTracks>1</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">3</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:20" annotation="profile:Simple@L3">MPEG-4 Visual</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="VBR">149137</essenceTrackDataRate>
+		<essenceTrackFrameRate>15.054</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>320x240</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.167</essenceTrackAspectRatio>
+		<essenceTrackDuration>00:00:07.440</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="Format_Settings">BVOP</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_PacketBitStream">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BitRate_Maximum">1239600</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Width_Original">168</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Height_Original">144</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Rotation">0.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">112</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Progressive</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Interlacement">PPF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">138698</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="OtherCount">2</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_List">mp4s / mp4s</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_WithHint_List">mp4s / mp4s</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format">QuickTime</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format/Info">Original Apple specifications</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Codec/Info">Original Apple specifications</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">15.054</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameCount">112</instantiationAnnotation>
+	<instantiationAnnotation annotationType="HeaderSize">0</instantiationAnnotation>
+	<instantiationAnnotation annotationType="DataSize">8</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FooterSize">142122</instantiationAnnotation>
+	<instantiationAnnotation annotationType="IsStreamable">No</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:10:28Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">divx-fast-3000.avi</instantiationIdentifier>
+	<instantiationDigital>video/vnd.avi</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/tests/OpenDivX_4.0_beta-testvideos/Scene-01/divx-fast-3000.avi</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">2021376</instantiationFileSize>
+	<instantiationDuration>00:00:24.725</instantiationDuration>
+	<instantiationDataRate unitsOfMeasure="bits/second">654035</instantiationDataRate>
+	<instantiationTracks>1</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:DIV3">MPEG-4 Visual</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second">646005</essenceTrackDataRate>
+		<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>352x272</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.294</essenceTrackAspectRatio>
+		<essenceTrackDuration>00:00:24.725</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="CodecID/Hint">DivX 3 Low</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">741</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">1996537</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="Format">AVI</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format/Info">Audio Video Interleave</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Codec/Info">Audio Video Interleave</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">29.970</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameCount">741</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library">VirtualDub build 12667/release</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

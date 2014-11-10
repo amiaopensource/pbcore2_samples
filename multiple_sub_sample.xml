@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:08:09Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">multiple_sub_sample.mkv</instantiationIdentifier>
+	<instantiationDate dateType="encoded">2006-03-04T13:46:57Z</instantiationDate>
+	<instantiationDigital>video/x-matroska</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/Matroska/subtitles/multiple_sub_sample.mkv</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">8127641</instantiationFileSize>
+	<instantiationTimeStart>00:00:00.000</instantiationTimeStart>
+	<instantiationDuration>00:00:30.864</instantiationDuration>
+	<instantiationDataRate unitsOfMeasure="bits/second">2106698</instantiationDataRate>
+	<instantiationTracks>9</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">3541880924</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:V_MS/VFW/FOURCC / XVID" annotation="profile:Simple@L3">MPEG-4 Visual</essenceTrackEncoding>
+		<essenceTrackFrameRate annotation="CFR">23.976</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>640x480</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.333</essenceTrackAspectRatio>
+		<essenceTrackDuration>00:00:30.864</essenceTrackDuration>
+		<essenceTrackLanguage>jpn</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Format_Settings">BVOP2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_BVOP">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="MuxingMode">Packed bitstream</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="CodecID/Hint">XviD</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_PacketBitStream">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">740</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Progressive</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Interlacement">PPF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Title">[KAA] Kimi Ga Nozomu Eien - Ayu Mayu Theater 6 (for ep 13) [XviD 1.0.2]</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Encoded_Library/Name">XviD</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Encoded_Library/Version">1.0.2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Encoded_Library/Date">UTC 2004-08-29</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Default">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">748292848</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:A_AAC/MPEG4/LC" version="Version 4" annotation="profile:LC">AAC</essenceTrackEncoding>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+		<essenceTrackDuration>00:00:30.863</essenceTrackDuration>
+		<essenceTrackLanguage>jpn</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Format_Settings_SBR">No (Explicit)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_PS">No (Explicit)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="SamplingCount">1361102</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Title">Japanese Audio (2ch LC-AAC)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Default">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">3</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">2020107957</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>chi</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">4</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">454040964</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">3</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>eng</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">5</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">3361551015</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">4</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>fra</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">6</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">3069845128</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">3</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">5</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>deu</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">7</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">1941750158</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">4</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">6</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>ita</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">8</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">2638831287</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">5</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">7</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>jpn</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">9</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="UniqueID (Mediainfo)">3653246381</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">6</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">8</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:S_TEXT/UTF8">UTF-8</essenceTrackEncoding>
+		<essenceTrackLanguage>spa</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Default">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Forced">No</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="Format">Matroska</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Version">Version 1</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">23.976</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameCount">740</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Title">[KAA] Kimi Ga Nozomu Eien - Ayu Mayu Theater 6 (for ep 13) #KickAssAnime@irc.rizon.net www.kickassanime.tk «Jcubed»</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Movie">[KAA] Kimi Ga Nozomu Eien - Ayu Mayu Theater 6 (for ep 13) #KickAssAnime@irc.rizon.net www.kickassanime.tk «Jcubed»</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Application">mkvmerge v1.6.5 ('Watcher Of The Skies') built on Dec  7 2005 18:53:53</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library">libebml v0.7.6 + libmatroska v0.8.0</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Attachements">Albert.ttf / COOLVETI.TTF / kaa.kgne.nfo</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:04:32Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">TITLE01-ANGLE1.VOB</instantiationIdentifier>
+	<instantiationDigital>video/MP2P</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/MPEG2/TITLE01-ANGLE1.VOB</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">3731872</instantiationFileSize>
+	<instantiationTimeStart>11:30:54.800</instantiationTimeStart>
+	<instantiationDuration>00:00:07.920</instantiationDuration>
+	<instantiationDataRate unitsOfMeasure="bits/second" annotation="VBR">3769568</instantiationDataRate>
+	<instantiationTracks>5</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">224</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackStandard>PAL</essenceTrackStandard>
+		<essenceTrackEncoding version="Version 2" annotation="profile:Main@Main">MPEG Video</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="VBR">2798554</essenceTrackDataRate>
+		<essenceTrackFrameRate>25.000</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>720x576</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.778</essenceTrackAspectRatio>
+		<essenceTrackDuration>00:00:07.920</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="FirstPacketOrder">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings">BVOP</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Matrix">Default</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_GOP">M=2, N=13</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_PictureStructure">Frame</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_Matrix">Default</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BitRate_Maximum">8300000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.422</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">198</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Interlaced</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanOrder">TFF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Interlacement">TFF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">5455030.367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_DropFrame">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Original">41454800</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Original_Settings">drop_frame_flag=0 / closed_gop=0 / broken_link=1</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Original_DropFrame">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Original_Source">Stream</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="TimeCode_FirstFrame">11:30:54:20</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="TimeCode_Source">Group of pictures header</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Gop_OpenClosed">Open</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">2770568</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BufferSize">229376</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="colour_description_present">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="colour_primaries">BT.601 PAL</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="transfer_characteristics">BT.470 System B, BT.470 System G</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="matrix_coefficients">BT.601</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="intra_dc_precision">10</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">189-128</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding>AC-3</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="CBR">448000</essenceTrackDataRate>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">48000</essenceTrackSamplingRate>
+		<essenceTrackBitDepth>16</essenceTrackBitDepth>
+		<essenceTrackDuration>00:00:07.840</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="FirstPacketOrder">1</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_ModeExtension">CM (complete main)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Endianness">Big</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="MuxingMode">DVD-Video</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChannelLayout">L R</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="SamplingCount">376320</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">245</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">5454854.367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">-176</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">-176</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">439040</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="bsid">8</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm">-27</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr">-2.14</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dynrng">-0.71</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dsurmod">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="acmod">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="lfeon">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Average">-27</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Minimum">-27</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Maximum">-27</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Count">245</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Average">0.38</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Minimum">-4.53</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Maximum">2.77</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Count">245</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dynrng_Average">1.18</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dynrng_Minimum">-0.71</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dynrng_Maximum">2.96</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dynrng_Count">245</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">189-129</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding>AC-3</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="CBR">448000</essenceTrackDataRate>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">48000</essenceTrackSamplingRate>
+		<essenceTrackBitDepth>16</essenceTrackBitDepth>
+		<essenceTrackDuration>00:00:07.840</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="FirstPacketOrder">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_ModeExtension">CM (complete main)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Endianness">Big</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="MuxingMode">DVD-Video</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">6</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChannelLayout">L C R LFE Ls Rs</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="SamplingCount">376320</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">245</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">5454854.367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">-176</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">-176</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">439040</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="bsid">8</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm">-30</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr">-0.00</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="acmod">7</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="lfeon">1</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Average">-30</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Minimum">-30</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Maximum">-30</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="dialnorm_Count">245</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Average">-0.00</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Minimum">-0.00</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Maximum">-0.00</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="compr_Count">245</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">189-32</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding>RLE</essenceTrackEncoding>
+		<essenceTrackAnnotation annotationType="FirstPacketOrder">4</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="MuxingMode">DVD-Video</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">5459190.367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">4160</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">4160</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Text</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">189-33</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding>RLE</essenceTrackEncoding>
+		<essenceTrackDuration>00:00:04.000</essenceTrackDuration>
+		<essenceTrackAnnotation annotationType="FirstPacketOrder">3</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="MuxingMode">DVD-Video</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">5455270.367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">240</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">240</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="Format">MPEG-PS</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">25.000</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameCount">198</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

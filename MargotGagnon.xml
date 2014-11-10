@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:07:11Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">MargotGagnon.mov</instantiationIdentifier>
+	<instantiationDate dateType="encoded">2002-08-06T16:29:45Z</instantiationDate>
+	<instantiationDate dateType="tagged">2002-08-06T16:29:46Z</instantiationDate>
+	<instantiationDigital>video/quicktime</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/MPEG-4/MargotGagnon.mov</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">3974562</instantiationFileSize>
+	<instantiationDuration>00:00:17.770</instantiationDuration>
+	<instantiationDataRate unitsOfMeasure="bits/second">1789336</instantiationDataRate>
+	<instantiationTracks>2</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:20" annotation="profile:Advanced Simple@L3">MPEG-4 Visual</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second">1650656</essenceTrackDataRate>
+		<essenceTrackFrameRate annotation="CFR">25.000</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>512x288</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.778</essenceTrackAspectRatio>
+		<essenceTrackDuration>00:00:17.770</essenceTrackDuration>
+		<essenceTrackLanguage>eng</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Format_Settings">BVOP</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_PacketBitStream">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_BVOP">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_QPel">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_GMC">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_Matrix">Default (H.263)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_Duration">17840</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Rotation">0.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">444</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_FrameCount">446</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Progressive</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Interlacement">PPF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">3664457</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_StreamSize">3680525</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_StreamSize_Proportion">0.92602</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="colour_description_present">Yes</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="transfer_characteristics">BT.601</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="matrix_coefficients">BT.601</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_Delay">-70</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_Delay_Source">Container</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:40" annotation="profile:LC">AAC</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="CBR">128000</essenceTrackDataRate>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">44100</essenceTrackSamplingRate>
+		<essenceTrackDuration>00:00:17.770</essenceTrackDuration>
+		<essenceTrackLanguage>eng</essenceTrackLanguage>
+		<essenceTrackAnnotation annotationType="Source_Duration">17810</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChannelLayout">L R</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="SamplingCount">783657</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="FrameCount">765</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_FrameCount">767</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="StreamSize">284367</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_StreamSize">285103</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Source_StreamSize_Proportion">0.07173</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="Format">QuickTime</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format/Info">Original Apple specifications</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Codec/Info">Original Apple specifications</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">25.000</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameCount">444</instantiationAnnotation>
+	<instantiationAnnotation annotationType="HeaderSize">8910</instantiationAnnotation>
+	<instantiationAnnotation annotationType="DataSize">3965652</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FooterSize">0</instantiationAnnotation>
+	<instantiationAnnotation annotationType="IsStreamable">Yes</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library">Apple QuickTime</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library/Name">Apple QuickTime</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

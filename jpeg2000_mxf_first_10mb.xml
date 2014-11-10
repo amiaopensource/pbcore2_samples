@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:08:21Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">jpeg2000_mxf_first_10mb.mxf</instantiationIdentifier>
+	<instantiationDate dateType="encoded">2009-10-28T11:53:28.788Z</instantiationDate>
+	<instantiationDigital>application/mxf</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/jpeg2000/jpeg2000_mxf_first_10mb.mxf</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">10240000</instantiationFileSize>
+	<instantiationTimeStart>01:03:34.350</instantiationTimeStart>
+	<instantiationTracks>2</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">512</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackStandard>NTSC</essenceTrackStandard>
+		<essenceTrackEncoding ref="codecid:0D010301020C0100-0401020203010102">JPEG 2000</essenceTrackEncoding>
+		<essenceTrackFrameRate>29.970</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>720x486</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.333</essenceTrackAspectRatio>
+		<essenceTrackAnnotation annotationType="Format_Settings_Wrapping">Frame</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">0.900</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Interlaced</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanOrder">TFF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossless</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">3814350</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_DropFrame">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="transfer_characteristics">BT.470</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">768</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:0D01030102060100">PCM</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second">3072000</essenceTrackDataRate>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">48000</essenceTrackSamplingRate>
+		<essenceTrackBitDepth>16</essenceTrackBitDepth>
+		<essenceTrackAnnotation annotationType="Format_Settings_Wrapping">Frame (BWF)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">4</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BlockAlignment">8</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="OtherCount">2</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_List">MXF TC / MXF TC</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_WithHint_List">MXF TC / MXF TC</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format">MXF</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Profile">OP-1a</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Settings">Open / Incomplete</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Codec_Settings">Open / Incomplete</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">29.970</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Application">SAMMA Systems MXF for SAMMA mjpeg2k 0.2.0.41.0</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library/Name">SAMMA Systems MXF for SAMMA mjpeg2k</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library/Version">0.2.0.41.0</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

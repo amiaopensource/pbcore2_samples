@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:05:52Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">ebu_small.mxf</instantiationIdentifier>
+	<instantiationDate dateType="encoded">2005-08-18T00:46:00.000Z</instantiationDate>
+	<instantiationDigital>application/mxf</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/MXF/ebu_small.mxf</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">78214656</instantiationFileSize>
+	<instantiationTimeStart>00:11:30.000</instantiationTimeStart>
+	<instantiationTracks>2</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">2</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackStandard>PAL</essenceTrackStandard>
+		<essenceTrackEncoding ref="codecid:0D01030102010101-0401020201020101" version="Version 2" annotation="profile:4:2:2@Main">MPEG Video</essenceTrackEncoding>
+		<essenceTrackFrameRate>25.000</essenceTrackFrameRate>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>720x576</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.333</essenceTrackAspectRatio>
+		<essenceTrackAnnotation annotationType="Format_Commercial_IfAny">IMX 50</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_BVOP">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Matrix">Default</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_GOP">N=1</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_PictureStructure">Frame</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Wrapping">Frame (D-10)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Codec_Settings_Matrix">Default</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BitRate_Maximum">50000000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Height_Offset">32</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Height_Original">608</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio_Original">1.126</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Interlaced</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanOrder">TFF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Interlacement">TFF</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Compression_Mode">Lossy</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">690000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_DropFrame">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="BufferSize">251904</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="transfer_characteristics">BT.470</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_SDTI">690000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="intra_dc_precision">10</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Audio</essenceTrackType>
+		<essenceTrackIdentifier source="ID (Mediainfo)">3</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackIdentifier source="StreamOrder (Mediainfo)">1</essenceTrackIdentifier>
+		<essenceTrackEncoding ref="codecid:0D01030102010101">PCM</essenceTrackEncoding>
+		<essenceTrackDataRate unitsOfMeasure="bits/second" annotation="CBR">12288000</essenceTrackDataRate>
+		<essenceTrackSamplingRate unitsOfMeasure="Hz">48000</essenceTrackSamplingRate>
+		<essenceTrackBitDepth>24</essenceTrackBitDepth>
+		<essenceTrackAnnotation annotationType="Format_Settings_Endianness">Little</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Format_Settings_Wrapping">Frame (D-10)</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)">4</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Channel(s)_Original">8</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay">690000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_DropFrame">No</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_Source">Container</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video_Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Video0_Delay">0</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="Delay_SDTI">690000</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="OtherCount">3</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_List">MXF TC / MXF TC / SMPTE TC</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Other_Format_WithHint_List">MXF TC / MXF TC / SMPTE TC</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format">MXF</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Commercial_IfAny">IMX 50</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Profile">OP-1a</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Format_Settings">Closed / Incomplete</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Codec_Settings">Closed / Incomplete</instantiationAnnotation>
+	<instantiationAnnotation annotationType="FrameRate">25.000</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Application">SONY eVTR 1.00</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library/Name">SONY eVTR</instantiationAnnotation>
+	<instantiationAnnotation annotationType="Encoded_Library/Version">1.00</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreInstantiationDocument xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html http://pbcore.org/xsd/pbcore-2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html">
+<!-- Generated at 2014-11-10T16:07:41Z by MediaInfoLib - v0.7.71 -->
+	<instantiationIdentifier source="File Name">dnxhd_145_decode_error.mxf</instantiationIdentifier>
+	<instantiationDigital>application/mxf</instantiationDigital>
+	<instantiationLocation>http://samples.ffmpeg.org/MXF/issue2160/dnxhd_145_decode_error.mxf</instantiationLocation>
+	<instantiationMediaType>Moving Image</instantiationMediaType>
+	<instantiationFileSize unitsOfMeasure="bytes">109838393</instantiationFileSize>
+	<instantiationTracks>1</instantiationTracks>
+	<instantiationEssenceTrack>
+		<essenceTrackType>Video</essenceTrackType>
+		<essenceTrackIdentifier source="StreamKindID (Mediainfo)">0</essenceTrackIdentifier>
+		<essenceTrackEncoding>VC-3</essenceTrackEncoding>
+		<essenceTrackBitDepth>8</essenceTrackBitDepth>
+		<essenceTrackFrameSize>1920x1080</essenceTrackFrameSize>
+		<essenceTrackAspectRatio>1.778</essenceTrackAspectRatio>
+		<essenceTrackAnnotation annotationType="PixelAspectRatio">1.000</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ColorSpace">YUV</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ChromaSubsampling">4:2:2</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanType">Interlaced</essenceTrackAnnotation>
+		<essenceTrackAnnotation annotationType="ScanOrder">TFF</essenceTrackAnnotation>
+	</instantiationEssenceTrack>
+	<instantiationAnnotation annotationType="Format">MXF</instantiationAnnotation>
+</pbcoreInstantiationDocument>
+
