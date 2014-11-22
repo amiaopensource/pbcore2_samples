@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.8.2" timestamp="11/22/14 10:36 AM">
+  <identification status="CONFLICT">
+    <identity format="Matroska data" mimetype="video/x-matroska" toolname="FITS" toolversion="0.8.2">
+      <tool toolname="file utility" toolversion="5.04" />
+    </identity>
+    <identity format="MKV" mimetype="video/x-matroska" toolname="FITS" toolversion="0.8.2">
+      <tool toolname="Exiftool" toolversion="9.13" />
+    </identity>
+  </identification>
+  <fileinfo>
+    <lastmodified toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">2014:11:22 10:22:39-05:00</lastmodified>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/Users/davidrice/github/pbcore2_samples/unprocessed_xml_from_utilities/vorbis-audio-switch.mkv</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">vorbis-audio-switch.mkv</filename>
+    <size toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">5431806</size>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">0821ea9b5428a046e0aec84252a447bb</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1416669759000</fslastmodified>
+  </fileinfo>
+  <filestatus />
+  <metadata />
+  <statistics fitsExecutionTime="3994">
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Jhove" toolversion="1.5" executionTime="3974" />
+    <tool toolname="file utility" toolversion="5.04" executionTime="625" />
+    <tool toolname="Exiftool" toolversion="9.13" executionTime="659" />
+    <tool toolname="Droid" toolversion="6.1.3" executionTime="322" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" executionTime="466" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="371" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="467" />
+    <tool toolname="Tika" toolversion="1.3" executionTime="312" />
+  </statistics>
+</fits>
+

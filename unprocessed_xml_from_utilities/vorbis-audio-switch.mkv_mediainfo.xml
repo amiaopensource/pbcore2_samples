@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mediainfo version="0.7.69">
+<File>
+<track type="General">
+<Count>285</Count>
+<StreamCount>1</StreamCount>
+<StreamKind>General</StreamKind>
+<StreamKind_String>General</StreamKind_String>
+<StreamKindID>0</StreamKindID>
+<UniqueID>240150620893149392621182492348264328609</UniqueID>
+<UniqueID_String>240150620893149392621182492348264328609 (0xB4AB53C2FE993D9DAE82E58FD819ADA1)</UniqueID_String>
+<VideoCount>1</VideoCount>
+<AudioCount>4</AudioCount>
+<TextCount>3</TextCount>
+<MenuCount>1</MenuCount>
+<Video_Format_List>AVC</Video_Format_List>
+<Video_Format_WithHint_List>AVC</Video_Format_WithHint_List>
+<Video_Codec_List>AVC</Video_Codec_List>
+<Video_Language_List>en</Video_Language_List>
+<Audio_Format_List>Vorbis / Vorbis / Vorbis / Vorbis</Audio_Format_List>
+<Audio_Format_WithHint_List>Vorbis / Vorbis / Vorbis / Vorbis</Audio_Format_WithHint_List>
+<Audio_Codec_List>Vorbis / Vorbis / Vorbis / Vorbis</Audio_Codec_List>
+<Audio_Language_List>ja / en / de / fr</Audio_Language_List>
+<Text_Format_List>ASS / UTF-8 / ASS</Text_Format_List>
+<Text_Format_WithHint_List>ASS / UTF-8 / ASS</Text_Format_WithHint_List>
+<Text_Codec_List>ASS / UTF-8 / ASS</Text_Codec_List>
+<Text_Language_List>en / en / de</Text_Language_List>
+<CompleteName>vorbis-audio-switch.mkv</CompleteName>
+<FileName>vorbis-audio-switch</FileName>
+<FileExtension>mkv</FileExtension>
+<Format>Matroska</Format>
+<Format_String>Matroska</Format_String>
+<Format_Url>http://packs.matroska.org/</Format_Url>
+<Format_Extensions>mkv mk3d mka mks</Format_Extensions>
+<Format_Commercial>Matroska</Format_Commercial>
+<Format_Version>Version 1</Format_Version>
+<Codec>Matroska</Codec>
+<Codec_String>Matroska</Codec_String>
+<Codec_Url>http://packs.matroska.org/</Codec_Url>
+<Codec_Extensions>mkv mk3d mka mks</Codec_Extensions>
+<FileSize>5431806</FileSize>
+<FileSize_String>5.18 MiB</FileSize_String>
+<FileSize_String1>5 MiB</FileSize_String1>
+<FileSize_String2>5.2 MiB</FileSize_String2>
+<FileSize_String3>5.18 MiB</FileSize_String3>
+<FileSize_String4>5.180 MiB</FileSize_String4>
+<Duration>23180</Duration>
+<Duration_String>23s 180ms</Duration_String>
+<Duration_String1>23s 180ms</Duration_String1>
+<Duration_String2>23s 180ms</Duration_String2>
+<Duration_String3>00:00:23.180</Duration_String3>
+<OverallBitRate_Mode>VBR</OverallBitRate_Mode>
+<OverallBitRate_Mode_String>VBR</OverallBitRate_Mode_String>
+<OverallBitRate>1874653</OverallBitRate>
+<OverallBitRate_String>1875 Kbps</OverallBitRate_String>
+<StreamSize>106439</StreamSize>
+<StreamSize_String>104 KiB (2%)</StreamSize_String>
+<StreamSize_String1>104 KiB</StreamSize_String1>
+<StreamSize_String2>104 KiB</StreamSize_String2>
+<StreamSize_String3>104 KiB</StreamSize_String3>
+<StreamSize_String4>103.9 KiB</StreamSize_String4>
+<StreamSize_String5>104 KiB (2%)</StreamSize_String5>
+<StreamSize_Proportion>0.01960</StreamSize_Proportion>
+<Title>Mai Hime 01: That&apos;s a serious matter for a maiden</Title>
+<Movie>Mai Hime 01: That&apos;s a serious matter for a maiden</Movie>
+<Encoded_Date>UTC 2006-09-16 16:57:05</Encoded_Date>
+<File_Modified_Date>UTC 2014-11-22 15:22:39</File_Modified_Date>
+<File_Modified_Date_Local>2014-11-22 10:22:39</File_Modified_Date_Local>
+<Encoded_Application>mkvmerge v1.7.0 (&apos;What Do You Take Me For&apos;) built on Apr 28 2006 17:20:19</Encoded_Application>
+<Encoded_Library>libebml v0.7.7 + libmatroska v0.8.0</Encoded_Library>
+<Encoded_Library_String>libebml v0.7.7 + libmatroska v0.8.0</Encoded_Library_String>
+<Attachment>Yes / Yes / Yes</Attachment>
+</track>
+
+<track type="Video">
+<Count>277</Count>
+<StreamCount>1</StreamCount>
+<StreamKind>Video</StreamKind>
+<StreamKind_String>Video</StreamKind_String>
+<StreamKindID>0</StreamKindID>
+<StreamOrder>0</StreamOrder>
+<ID>1</ID>
+<ID_String>1</ID_String>
+<UniqueID>1</UniqueID>
+<Format>AVC</Format>
+<Format_Info>Advanced Video Codec</Format_Info>
+<Format_Url>http://developers.videolan.org/x264.html</Format_Url>
+<Format_Commercial>AVC</Format_Commercial>
+<Format_Profile>High@L5.1</Format_Profile>
+<Format_Settings>CABAC / 11 Ref Frames</Format_Settings>
+<Format_Settings_CABAC>Yes</Format_Settings_CABAC>
+<Format_Settings_CABAC_String>Yes</Format_Settings_CABAC_String>
+<Format_Settings_RefFrames>11</Format_Settings_RefFrames>
+<Format_Settings_RefFrames_String>11 frame3</Format_Settings_RefFrames_String>
+<InternetMediaType>video/H264</InternetMediaType>
+<CodecID>V_MPEG4/ISO/AVC</CodecID>
+<CodecID_Url>http://ffdshow-tryout.sourceforge.net/</CodecID_Url>
+<Codec>V_MPEG4/ISO/AVC</Codec>
+<Codec_String>AVC</Codec_String>
+<Codec_Family>AVC</Codec_Family>
+<Codec_Info>Advanced Video Codec</Codec_Info>
+<Codec_Url>http://ffdshow-tryout.sourceforge.net/</Codec_Url>
+<Codec_Profile>High@L5.1</Codec_Profile>
+<Codec_Settings>CABAC / 11 Ref Frames</Codec_Settings>
+<Codec_Settings_CABAC>Yes</Codec_Settings_CABAC>
+<Codec_Settings_RefFrames>11</Codec_Settings_RefFrames>
+<Duration>23190</Duration>
+<Duration_String>23s 190ms</Duration_String>
+<Duration_String1>23s 190ms</Duration_String1>
+<Duration_String2>23s 190ms</Duration_String2>
+<Duration_String3>00:00:23.190</Duration_String3>
+<BitRate>1400000</BitRate>
+<BitRate_String>1400 Kbps</BitRate_String>
+<Width>704</Width>
+<Width_String>704 pixel2</Width_String>
+<Height>480</Height>
+<Height_String>480 pixel3</Height_String>
+<PixelAspectRatio>0.909</PixelAspectRatio>
+<PixelAspectRatio_Original>1.000</PixelAspectRatio_Original>
+<DisplayAspectRatio>1.333</DisplayAspectRatio>
+<DisplayAspectRatio_String>4:3</DisplayAspectRatio_String>
+<DisplayAspectRatio_Original>1.467</DisplayAspectRatio_Original>
+<DisplayAspectRatio_Original_String>3:2</DisplayAspectRatio_Original_String>
+<FrameRate_Mode>CFR</FrameRate_Mode>
+<FrameRate_Mode_String>CFR</FrameRate_Mode_String>
+<FrameRate>23.976</FrameRate>
+<FrameRate_String>23.976 fps2</FrameRate_String>
+<FrameCount>556</FrameCount>
+<Standard>NTSC</Standard>
+<Resolution>8</Resolution>
+<Resolution_String>8 bit3</Resolution_String>
+<Colorimetry>4:2:0</Colorimetry>
+<ColorSpace>YUV</ColorSpace>
+<ChromaSubsampling>4:2:0</ChromaSubsampling>
+<BitDepth>8</BitDepth>
+<BitDepth_String>8 bit3</BitDepth_String>
+<ScanType>Progressive</ScanType>
+<ScanType_String>Progressive</ScanType_String>
+<Interlacement>PPF</Interlacement>
+<Interlacement_String>Interlaced_PPF</Interlacement_String>
+<Bits_Pixel_Frame_>0.173</Bits_Pixel_Frame_>
+<Delay>0</Delay>
+<Delay_String3>00:00:00.000</Delay_String3>
+<Delay_Source>Container</Delay_Source>
+<Delay_Source_String>Container</Delay_Source_String>
+<StreamSize>3888207</StreamSize>
+<StreamSize_String>3.71 MiB (72%)</StreamSize_String>
+<StreamSize_String1>4 MiB</StreamSize_String1>
+<StreamSize_String2>3.7 MiB</StreamSize_String2>
+<StreamSize_String3>3.71 MiB</StreamSize_String3>
+<StreamSize_String4>3.708 MiB</StreamSize_String4>
+<StreamSize_String5>3.71 MiB (72%)</StreamSize_String5>
+<StreamSize_Proportion>0.71582</StreamSize_Proportion>
+<Title>Mai Hime 01: That&apos;s a serious matter for a maiden</Title>
+<Encoded_Library>x264 - core 45 svn-477M</Encoded_Library>
+<Encoded_Library_String>x264 core 45 svn-477M</Encoded_Library_String>
+<Encoded_Library_Name>x264</Encoded_Library_Name>
+<Encoded_Library_Version>core 45 svn-477M</Encoded_Library_Version>
+<Encoded_Library_Settings>cabac=1 / ref=8 / deblock=1:0:0 / analyse=0x3:0x133 / me=esa / subme=7 / brdo=1 / mixed_ref=1 / me_range=16 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / chroma_qp_offset=0 / slices=1 / nr=0 / bframes=3 / b_pyramid=1 / b_adapt=1 / b_bias=0 / direct=1 / wpredb=1 / bime=1 / keyint=250 / keyint_min=25 / scenecut=40 / rc=2pass / bitrate=1400 / ratetol=1.0 / rceq=&apos;blurCplx^(1-qComp)&apos; / qcomp=0.60 / qpmin=10 / qpmax=51 / qpstep=4 / cplxblur=20.0 / qblur=0.5 / ip_ratio=1.40 / pb_ratio=1.30</Encoded_Library_Settings>
+<Default>Yes</Default>
+<Default_String>Yes</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+</track>
+
+<track type="Audio" streamid="1">
+<Count>224</Count>
+<StreamCount>4</StreamCount>
+<StreamKind>Audio</StreamKind>
+<StreamKind_String>Audio</StreamKind_String>
+<StreamKindID>0</StreamKindID>
+<StreamKindPos>1</StreamKindPos>
+<StreamOrder>1</StreamOrder>
+<ID>2</ID>
+<ID_String>2</ID_String>
+<UniqueID>2676990882</UniqueID>
+<Format>Vorbis</Format>
+<Format_Url>http://www.vorbis.com/</Format_Url>
+<Format_Commercial>Vorbis</Format_Commercial>
+<Format_Settings_Floor>1</Format_Settings_Floor>
+<InternetMediaType>audio/vorbis</InternetMediaType>
+<CodecID>A_VORBIS</CodecID>
+<CodecID_Url>http://www.vorbis.com</CodecID_Url>
+<Codec>Vorbis</Codec>
+<Codec_String>Vorbis</Codec_String>
+<Codec_Family>Vorbis</Codec_Family>
+<Codec_Url>http://www.vorbis.com</Codec_Url>
+<Codec_Settings_Floor>1</Codec_Settings_Floor>
+<Duration>23180</Duration>
+<Duration_String>23s 180ms</Duration_String>
+<Duration_String1>23s 180ms</Duration_String1>
+<Duration_String2>23s 180ms</Duration_String2>
+<Duration_String3>00:00:23.180</Duration_String3>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate_Mode_String>VBR</BitRate_Mode_String>
+<BitRate>160000</BitRate>
+<BitRate_String>160 Kbps</BitRate_String>
+<Channel_s_>2</Channel_s_>
+<Channel_s__String>2 channel2</Channel_s__String>
+<SamplingRate>48000</SamplingRate>
+<SamplingRate_String>48.0 KHz</SamplingRate_String>
+<SamplingCount>1112640</SamplingCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<Delay>0</Delay>
+<Delay_String3>00:00:00.000</Delay_String3>
+<Delay_Source>Container</Delay_Source>
+<Delay_Source_String>Container</Delay_Source_String>
+<Video_Delay>0</Video_Delay>
+<Video0_Delay>0</Video0_Delay>
+<StreamSize>463600</StreamSize>
+<StreamSize_String>453 KiB (9%)</StreamSize_String>
+<StreamSize_String1>453 KiB</StreamSize_String1>
+<StreamSize_String2>453 KiB</StreamSize_String2>
+<StreamSize_String3>453 KiB</StreamSize_String3>
+<StreamSize_String4>452.7 KiB</StreamSize_String4>
+<StreamSize_String5>453 KiB (9%)</StreamSize_String5>
+<StreamSize_Proportion>0.08535</StreamSize_Proportion>
+<Title>2.0 Vorbis</Title>
+<Encoded_Library>AO; aoTuV b4a [20051105] (based on Xiph.Org&apos;s libVorbis)</Encoded_Library>
+<Encoded_Library_String>aoTuV Beta 4.5 (UTC 2005-11-05)</Encoded_Library_String>
+<Encoded_Library_Name>aoTuV</Encoded_Library_Name>
+<Encoded_Library_Version>Beta 4.5</Encoded_Library_Version>
+<Encoded_Library_Date>UTC 2005-11-05</Encoded_Library_Date>
+<Language>ja</Language>
+<Language_String>ja</Language_String>
+<Language_String1>ja</Language_String1>
+<Language_String2>ja</Language_String2>
+<Language_String3>jpn</Language_String3>
+<Language_String4>ja</Language_String4>
+<Default>Yes</Default>
+<Default_String>Yes</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+<Encoded_Application>Made with BeSweet v1.5b31</Encoded_Application>
+<Encoded_Application_Url>http://DSPguru.doom9.org</Encoded_Application_Url>
+</track>
+
+<track type="Audio" streamid="2">
+<Count>224</Count>
+<StreamCount>4</StreamCount>
+<StreamKind>Audio</StreamKind>
+<StreamKind_String>Audio</StreamKind_String>
+<StreamKindID>1</StreamKindID>
+<StreamKindPos>2</StreamKindPos>
+<StreamOrder>2</StreamOrder>
+<ID>3</ID>
+<ID_String>3</ID_String>
+<UniqueID>3809847455</UniqueID>
+<Format>Vorbis</Format>
+<Format_Url>http://www.vorbis.com/</Format_Url>
+<Format_Commercial>Vorbis</Format_Commercial>
+<Format_Settings_Floor>1</Format_Settings_Floor>
+<InternetMediaType>audio/vorbis</InternetMediaType>
+<CodecID>A_VORBIS</CodecID>
+<CodecID_Url>http://www.vorbis.com</CodecID_Url>
+<Codec>Vorbis</Codec>
+<Codec_String>Vorbis</Codec_String>
+<Codec_Family>Vorbis</Codec_Family>
+<Codec_Url>http://www.vorbis.com</Codec_Url>
+<Codec_Settings_Floor>1</Codec_Settings_Floor>
+<Duration>23180</Duration>
+<Duration_String>23s 180ms</Duration_String>
+<Duration_String1>23s 180ms</Duration_String1>
+<Duration_String2>23s 180ms</Duration_String2>
+<Duration_String3>00:00:23.180</Duration_String3>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate_Mode_String>VBR</BitRate_Mode_String>
+<BitRate>112000</BitRate>
+<BitRate_String>112 Kbps</BitRate_String>
+<Channel_s_>2</Channel_s_>
+<Channel_s__String>2 channel2</Channel_s__String>
+<SamplingRate>48000</SamplingRate>
+<SamplingRate_String>48.0 KHz</SamplingRate_String>
+<SamplingCount>1112640</SamplingCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<Delay>0</Delay>
+<Delay_String3>00:00:00.000</Delay_String3>
+<Delay_Source>Container</Delay_Source>
+<Delay_Source_String>Container</Delay_Source_String>
+<Video_Delay>0</Video_Delay>
+<Video0_Delay>0</Video0_Delay>
+<StreamSize>324520</StreamSize>
+<StreamSize_String>317 KiB (6%)</StreamSize_String>
+<StreamSize_String1>317 KiB</StreamSize_String1>
+<StreamSize_String2>317 KiB</StreamSize_String2>
+<StreamSize_String3>317 KiB</StreamSize_String3>
+<StreamSize_String4>316.9 KiB</StreamSize_String4>
+<StreamSize_String5>317 KiB (6%)</StreamSize_String5>
+<StreamSize_Proportion>0.05974</StreamSize_Proportion>
+<Title>2.0 Vorbis</Title>
+<Encoded_Library>AO; aoTuV b4a [20051105] (based on Xiph.Org&apos;s libVorbis)</Encoded_Library>
+<Encoded_Library_String>aoTuV Beta 4.5 (UTC 2005-11-05)</Encoded_Library_String>
+<Encoded_Library_Name>aoTuV</Encoded_Library_Name>
+<Encoded_Library_Version>Beta 4.5</Encoded_Library_Version>
+<Encoded_Library_Date>UTC 2005-11-05</Encoded_Library_Date>
+<Language>en</Language>
+<Language_String>en</Language_String>
+<Language_String1>en</Language_String1>
+<Language_String2>en</Language_String2>
+<Language_String3>eng</Language_String3>
+<Language_String4>en</Language_String4>
+<Default>No</Default>
+<Default_String>No</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+<Encoded_Application>Made with BeSweet v1.5b31</Encoded_Application>
+<Encoded_Application_Url>http://DSPguru.doom9.org</Encoded_Application_Url>
+</track>
+
+<track type="Audio" streamid="3">
+<Count>224</Count>
+<StreamCount>4</StreamCount>
+<StreamKind>Audio</StreamKind>
+<StreamKind_String>Audio</StreamKind_String>
+<StreamKindID>2</StreamKindID>
+<StreamKindPos>3</StreamKindPos>
+<StreamOrder>3</StreamOrder>
+<ID>4</ID>
+<ID_String>4</ID_String>
+<UniqueID>703181456</UniqueID>
+<Format>Vorbis</Format>
+<Format_Url>http://www.vorbis.com/</Format_Url>
+<Format_Commercial>Vorbis</Format_Commercial>
+<Format_Settings_Floor>1</Format_Settings_Floor>
+<InternetMediaType>audio/vorbis</InternetMediaType>
+<CodecID>A_VORBIS</CodecID>
+<CodecID_Url>http://www.vorbis.com</CodecID_Url>
+<Codec>Vorbis</Codec>
+<Codec_String>Vorbis</Codec_String>
+<Codec_Family>Vorbis</Codec_Family>
+<Codec_Url>http://www.vorbis.com</Codec_Url>
+<Codec_Settings_Floor>1</Codec_Settings_Floor>
+<Duration>23180</Duration>
+<Duration_String>23s 180ms</Duration_String>
+<Duration_String1>23s 180ms</Duration_String1>
+<Duration_String2>23s 180ms</Duration_String2>
+<Duration_String3>00:00:23.180</Duration_String3>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate_Mode_String>VBR</BitRate_Mode_String>
+<BitRate>112000</BitRate>
+<BitRate_String>112 Kbps</BitRate_String>
+<Channel_s_>2</Channel_s_>
+<Channel_s__String>2 channel2</Channel_s__String>
+<SamplingRate>48000</SamplingRate>
+<SamplingRate_String>48.0 KHz</SamplingRate_String>
+<SamplingCount>1112640</SamplingCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<Delay>0</Delay>
+<Delay_String3>00:00:00.000</Delay_String3>
+<Delay_Source>Container</Delay_Source>
+<Delay_Source_String>Container</Delay_Source_String>
+<Video_Delay>0</Video_Delay>
+<Video0_Delay>0</Video0_Delay>
+<StreamSize>324520</StreamSize>
+<StreamSize_String>317 KiB (6%)</StreamSize_String>
+<StreamSize_String1>317 KiB</StreamSize_String1>
+<StreamSize_String2>317 KiB</StreamSize_String2>
+<StreamSize_String3>317 KiB</StreamSize_String3>
+<StreamSize_String4>316.9 KiB</StreamSize_String4>
+<StreamSize_String5>317 KiB (6%)</StreamSize_String5>
+<StreamSize_Proportion>0.05974</StreamSize_Proportion>
+<Title>2.0 Vorbis</Title>
+<Encoded_Library>AO; aoTuV b4a [20051105] (based on Xiph.Org&apos;s libVorbis)</Encoded_Library>
+<Encoded_Library_String>aoTuV Beta 4.5 (UTC 2005-11-05)</Encoded_Library_String>
+<Encoded_Library_Name>aoTuV</Encoded_Library_Name>
+<Encoded_Library_Version>Beta 4.5</Encoded_Library_Version>
+<Encoded_Library_Date>UTC 2005-11-05</Encoded_Library_Date>
+<Language>de</Language>
+<Language_String>de</Language_String>
+<Language_String1>de</Language_String1>
+<Language_String2>de</Language_String2>
+<Language_String3>deu</Language_String3>
+<Language_String4>de</Language_String4>
+<Default>No</Default>
+<Default_String>No</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+<Encoded_Application>Made with BeSweet v1.5b31</Encoded_Application>
+<Encoded_Application_Url>http://DSPguru.doom9.org</Encoded_Application_Url>
+</track>
+
+<track type="Audio" streamid="4">
+<Count>224</Count>
+<StreamCount>4</StreamCount>
+<StreamKind>Audio</StreamKind>
+<StreamKind_String>Audio</StreamKind_String>
+<StreamKindID>3</StreamKindID>
+<StreamKindPos>4</StreamKindPos>
+<StreamOrder>4</StreamOrder>
+<ID>5</ID>
+<ID_String>5</ID_String>
+<UniqueID>1836208057</UniqueID>
+<Format>Vorbis</Format>
+<Format_Url>http://www.vorbis.com/</Format_Url>
+<Format_Commercial>Vorbis</Format_Commercial>
+<Format_Settings_Floor>1</Format_Settings_Floor>
+<InternetMediaType>audio/vorbis</InternetMediaType>
+<CodecID>A_VORBIS</CodecID>
+<CodecID_Url>http://www.vorbis.com</CodecID_Url>
+<Codec>Vorbis</Codec>
+<Codec_String>Vorbis</Codec_String>
+<Codec_Family>Vorbis</Codec_Family>
+<Codec_Url>http://www.vorbis.com</Codec_Url>
+<Codec_Settings_Floor>1</Codec_Settings_Floor>
+<Duration>23180</Duration>
+<Duration_String>23s 180ms</Duration_String>
+<Duration_String1>23s 180ms</Duration_String1>
+<Duration_String2>23s 180ms</Duration_String2>
+<Duration_String3>00:00:23.180</Duration_String3>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate_Mode_String>VBR</BitRate_Mode_String>
+<BitRate>112000</BitRate>
+<BitRate_String>112 Kbps</BitRate_String>
+<Channel_s_>2</Channel_s_>
+<Channel_s__String>2 channel2</Channel_s__String>
+<SamplingRate>48000</SamplingRate>
+<SamplingRate_String>48.0 KHz</SamplingRate_String>
+<SamplingCount>1112640</SamplingCount>
+<Compression_Mode>Lossy</Compression_Mode>
+<Compression_Mode_String>Lossy</Compression_Mode_String>
+<Delay>0</Delay>
+<Delay_String3>00:00:00.000</Delay_String3>
+<Delay_Source>Container</Delay_Source>
+<Delay_Source_String>Container</Delay_Source_String>
+<Video_Delay>0</Video_Delay>
+<Video0_Delay>0</Video0_Delay>
+<StreamSize>324520</StreamSize>
+<StreamSize_String>317 KiB (6%)</StreamSize_String>
+<StreamSize_String1>317 KiB</StreamSize_String1>
+<StreamSize_String2>317 KiB</StreamSize_String2>
+<StreamSize_String3>317 KiB</StreamSize_String3>
+<StreamSize_String4>316.9 KiB</StreamSize_String4>
+<StreamSize_String5>317 KiB (6%)</StreamSize_String5>
+<StreamSize_Proportion>0.05974</StreamSize_Proportion>
+<Title>2.0 Vorbis</Title>
+<Encoded_Library>AO; aoTuV b4a [20051105] (based on Xiph.Org&apos;s libVorbis)</Encoded_Library>
+<Encoded_Library_String>aoTuV Beta 4.5 (UTC 2005-11-05)</Encoded_Library_String>
+<Encoded_Library_Name>aoTuV</Encoded_Library_Name>
+<Encoded_Library_Version>Beta 4.5</Encoded_Library_Version>
+<Encoded_Library_Date>UTC 2005-11-05</Encoded_Library_Date>
+<Language>fr</Language>
+<Language_String>fr</Language_String>
+<Language_String1>fr</Language_String1>
+<Language_String2>fr</Language_String2>
+<Language_String3>fra</Language_String3>
+<Language_String4>fr</Language_String4>
+<Default>No</Default>
+<Default_String>No</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+<Encoded_Application>Made with BeSweet v1.5b31</Encoded_Application>
+<Encoded_Application_Url>http://DSPguru.doom9.org</Encoded_Application_Url>
+</track>
+
+<track type="Text" streamid="1">
+<Count>195</Count>
+<StreamCount>3</StreamCount>
+<StreamKind>Text</StreamKind>
+<StreamKind_String>Text</StreamKind_String>
+<StreamKindID>0</StreamKindID>
+<StreamKindPos>1</StreamKindPos>
+<StreamOrder>5</StreamOrder>
+<ID>6</ID>
+<ID_String>6</ID_String>
+<UniqueID>1282114711</UniqueID>
+<Format>ASS</Format>
+<Format_Url>http://ffdshow.sourceforge.net/tikiwiki/tiki-index.php?page=Getting+ffdshow</Format_Url>
+<Format_Commercial>ASS</Format_Commercial>
+<CodecID>S_TEXT/ASS</CodecID>
+<CodecID_Info>Advanced Sub Station Alpha</CodecID_Info>
+<Codec>S_TEXT/ASS</Codec>
+<Codec_String>ASS</Codec_String>
+<Codec_Info>Advanced Sub Station Alpha</Codec_Info>
+<Compression_Mode>Lossless</Compression_Mode>
+<Compression_Mode_String>Lossless</Compression_Mode_String>
+<Title>ASS</Title>
+<Language>en</Language>
+<Language_String>en</Language_String>
+<Language_String1>en</Language_String1>
+<Language_String2>en</Language_String2>
+<Language_String3>eng</Language_String3>
+<Language_String4>en</Language_String4>
+<Default>Yes</Default>
+<Default_String>Yes</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+</track>
+
+<track type="Text" streamid="2">
+<Count>195</Count>
+<StreamCount>3</StreamCount>
+<StreamKind>Text</StreamKind>
+<StreamKind_String>Text</StreamKind_String>
+<StreamKindID>1</StreamKindID>
+<StreamKindPos>2</StreamKindPos>
+<StreamOrder>6</StreamOrder>
+<ID>7</ID>
+<ID_String>7</ID_String>
+<UniqueID>1046837439</UniqueID>
+<Format>UTF-8</Format>
+<Format_Commercial>UTF-8</Format_Commercial>
+<CodecID>S_TEXT/UTF8</CodecID>
+<CodecID_Info>UTF-8 Plain Text</CodecID_Info>
+<Codec>S_TEXT/UTF8</Codec>
+<Codec_String>UTF-8</Codec_String>
+<Codec_Info>UTF-8 Plain Text</Codec_Info>
+<Title>SRT</Title>
+<Language>en</Language>
+<Language_String>en</Language_String>
+<Language_String1>en</Language_String1>
+<Language_String2>en</Language_String2>
+<Language_String3>eng</Language_String3>
+<Language_String4>en</Language_String4>
+<Default>No</Default>
+<Default_String>No</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+</track>
+
+<track type="Text" streamid="3">
+<Count>195</Count>
+<StreamCount>3</StreamCount>
+<StreamKind>Text</StreamKind>
+<StreamKind_String>Text</StreamKind_String>
+<StreamKindID>2</StreamKindID>
+<StreamKindPos>3</StreamKindPos>
+<StreamOrder>7</StreamOrder>
+<ID>8</ID>
+<ID_String>8</ID_String>
+<UniqueID>3764897980</UniqueID>
+<Format>ASS</Format>
+<Format_Url>http://ffdshow.sourceforge.net/tikiwiki/tiki-index.php?page=Getting+ffdshow</Format_Url>
+<Format_Commercial>ASS</Format_Commercial>
+<CodecID>S_TEXT/ASS</CodecID>
+<CodecID_Info>Advanced Sub Station Alpha</CodecID_Info>
+<Codec>S_TEXT/ASS</Codec>
+<Codec_String>ASS</Codec_String>
+<Codec_Info>Advanced Sub Station Alpha</Codec_Info>
+<Compression_Mode>Lossless</Compression_Mode>
+<Compression_Mode_String>Lossless</Compression_Mode_String>
+<Title>ASS</Title>
+<Language>de</Language>
+<Language_String>de</Language_String>
+<Language_String1>de</Language_String1>
+<Language_String2>de</Language_String2>
+<Language_String3>deu</Language_String3>
+<Language_String4>de</Language_String4>
+<Default>No</Default>
+<Default_String>No</Default_String>
+<Forced>No</Forced>
+<Forced_String>No</Forced_String>
+</track>
+
+<track type="Menu">
+<Count>78</Count>
+<StreamCount>1</StreamCount>
+<StreamKind>Menu</StreamKind>
+<StreamKind_String>Menu</StreamKind_String>
+<StreamKindID>0</StreamKindID>
+<Chapters_Pos_Begin>77</Chapters_Pos_Begin>
+<Chapters_Pos_End>78</Chapters_Pos_End>
+<_00_00_00000>:Prologue</_00_00_00000>
+</track>
+
+</File>
+</Mediainfo>
+

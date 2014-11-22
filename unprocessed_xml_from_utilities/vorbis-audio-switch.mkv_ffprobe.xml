@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ffprobe:ffprobe xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:ffprobe='http://www.ffmpeg.org/schema/ffprobe' xsi:schemaLocation='http://www.ffmpeg.org/schema/ffprobe ffprobe.xsd'>
+    <program_version version="git-2014-10-25-80b29c2" copyright="Copyright (c) 2007-2014 the FFmpeg developers" build_date="Oct 25 2014" build_time="11:44:59" compiler_ident="Apple LLVM version 6.0 (clang-600.0.54) (based on LLVM 3.5svn)" configuration="--prefix=/usr/local/Cellar/ffmpeg/HEAD --enable-shared --enable-pthreads --enable-gpl --enable-version3 --enable-nonfree --enable-hardcoded-tables --enable-avresample --enable-vda --cc=clang --host-cflags= --host-ldflags= --enable-libx264 --enable-libfaac --enable-libmp3lame --enable-libxvid --enable-libfreetype --enable-libass --enable-ffplay --enable-libopenjpeg --disable-decoder=jpeg2000 --extra-cflags=&apos;-I/usr/local/Cellar/openjpeg/1.5.1_1/include/openjpeg-1.5 &apos;"/>
+
+    <library_versions>
+        <library_version name="libavutil" major="54" minor="11" micro="100" version="3541860" ident="Lavu54.11.100"/>
+        <library_version name="libavcodec" major="56" minor="9" micro="100" version="3672420" ident="Lavc56.9.100"/>
+        <library_version name="libavformat" major="56" minor="10" micro="100" version="3672676" ident="Lavf56.10.100"/>
+        <library_version name="libavdevice" major="56" minor="1" micro="100" version="3670372" ident="Lavd56.1.100"/>
+        <library_version name="libavfilter" major="5" minor="2" micro="100" version="328292" ident="Lavfi5.2.100"/>
+        <library_version name="libswscale" major="3" minor="1" micro="101" version="196965" ident="SwS3.1.101"/>
+        <library_version name="libswresample" major="1" minor="1" micro="100" version="65892" ident="SwR1.1.100"/>
+        <library_version name="libpostproc" major="53" minor="3" micro="100" version="3474276" ident="postproc53.3.100"/>
+    </library_versions>
+
+    <streams>
+        <stream index="0" codec_name="h264" codec_long_name="H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10" profile="High" codec_type="video" codec_time_base="125/5994" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" width="704" height="480" has_b_frames="2" sample_aspect_ratio="10:11" display_aspect_ratio="4:3" pix_fmt="yuv420p" level="51" chroma_location="left" r_frame_rate="2997/125" avg_frame_rate="2997/125" time_base="1/1000" start_pts="0" start_time="0.000000" bits_per_raw_sample="8">
+            <disposition default="1" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="title" value="Mai Hime 01: That&apos;s a serious matter for a maiden"/>
+        </stream>
+        <stream index="1" codec_name="vorbis" codec_long_name="Vorbis" codec_type="audio" codec_time_base="1/48000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" sample_fmt="fltp" sample_rate="48000" channels="2" channel_layout="stereo" bits_per_sample="0" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000">
+            <disposition default="1" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="jpn"/>
+            <tag key="title" value="2.0 Vorbis"/>
+        </stream>
+        <stream index="2" codec_name="vorbis" codec_long_name="Vorbis" codec_type="audio" codec_time_base="1/48000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" sample_fmt="fltp" sample_rate="48000" channels="2" channel_layout="stereo" bits_per_sample="0" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="eng"/>
+            <tag key="title" value="2.0 Vorbis"/>
+        </stream>
+        <stream index="3" codec_name="vorbis" codec_long_name="Vorbis" codec_type="audio" codec_time_base="1/48000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" sample_fmt="fltp" sample_rate="48000" channels="2" channel_layout="stereo" bits_per_sample="0" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="ger"/>
+            <tag key="title" value="2.0 Vorbis"/>
+        </stream>
+        <stream index="4" codec_name="vorbis" codec_long_name="Vorbis" codec_type="audio" codec_time_base="1/48000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" sample_fmt="fltp" sample_rate="48000" channels="2" channel_layout="stereo" bits_per_sample="0" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="fre"/>
+            <tag key="title" value="2.0 Vorbis"/>
+        </stream>
+        <stream index="5" codec_name="ass" codec_long_name="ASS (Advanced SubStation Alpha) subtitle" codec_type="subtitle" codec_time_base="1/1000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000" duration_ts="23180" duration="23.180000">
+            <disposition default="1" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="eng"/>
+            <tag key="title" value="ASS"/>
+        </stream>
+        <stream index="6" codec_name="srt" codec_long_name="SubRip subtitle" codec_type="subtitle" codec_time_base="1/1000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000" duration_ts="23180" duration="23.180000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="eng"/>
+            <tag key="title" value="SRT"/>
+        </stream>
+        <stream index="7" codec_name="ass" codec_long_name="ASS (Advanced SubStation Alpha) subtitle" codec_type="subtitle" codec_time_base="1/1000" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/1000" start_pts="0" start_time="0.000000" duration_ts="23180" duration="23.180000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="language" value="ger"/>
+            <tag key="title" value="ASS"/>
+        </stream>
+        <stream index="8" codec_type="attachment" codec_time_base="0/1" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/90000" start_pts="0" start_time="0.000000" duration_ts="2086200" duration="23.180000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="filename" value="MAIAN.TTF"/>
+            <tag key="mimetype" value="application/x-truetype-font"/>
+        </stream>
+        <stream index="9" codec_type="attachment" codec_time_base="0/1" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/90000" start_pts="0" start_time="0.000000" duration_ts="2086200" duration="23.180000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="filename" value="SanvitoPro-LtCapt.otf"/>
+            <tag key="mimetype" value="application/x-truetype-font"/>
+        </stream>
+        <stream index="10" codec_type="attachment" codec_time_base="0/1" codec_tag_string="[0][0][0][0]" codec_tag="0x0000" r_frame_rate="0/0" avg_frame_rate="0/0" time_base="1/90000" start_pts="0" start_time="0.000000" duration_ts="2086200" duration="23.180000">
+            <disposition default="0" dub="0" original="0" comment="0" lyrics="0" karaoke="0" forced="0" hearing_impaired="0" visual_impaired="0" clean_effects="0" attached_pic="0"/>
+            <tag key="filename" value="HighlanderStd-Book.otf"/>
+            <tag key="mimetype" value="application/x-truetype-font"/>
+        </stream>
+    </streams>
+
+    <chapters>
+        <chapter id="70855869" time_base="1/1000000000" start="0" start_time="0.000000" end="23180000000" end_time="23.180000">
+            <tag key="title" value="Prologue"/>
+        </chapter>
+    </chapters>
+
+    <format filename="vorbis-audio-switch.mkv" nb_streams="11" nb_programs="0" format_name="matroska,webm" format_long_name="Matroska / WebM" start_time="0.000000" duration="23.180000" size="5431806" bit_rate="1874652" probe_score="100">
+        <tag key="title" value="Mai Hime 01: That&apos;s a serious matter for a maiden"/>
+        <tag key="encoder" value="libebml v0.7.7 + libmatroska v0.8.0"/>
+        <tag key="creation_time" value="2006-09-16 16:57:05"/>
+    </format>
+</ffprobe:ffprobe>
