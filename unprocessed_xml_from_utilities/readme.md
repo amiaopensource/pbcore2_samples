@@ -1,6 +1,6 @@
 These XML files were made by running http://samples.ffmpeg.org/Matroska/vorbis-audio-switch.mkv through mediainfo, exiftool, and ffprobe.
 
-THese commands were used:
+These commands were used:
 
 ```
 exiftool -X vorbis-audio-switch.mkv > vorbis-audio-switch.mkv_exiftool.xml
